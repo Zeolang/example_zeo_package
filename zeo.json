@@ -1,0 +1,9 @@
+{
+  "name": "example_zeon_package",
+  "version": "1.0.0",
+  "main": "example.zeo",
+  "include": [],
+  "exclude": [],
+  "dependencies": [],
+  "scripts": {}
+}
