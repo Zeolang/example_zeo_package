@@ -1,3 +1,5 @@
+package example_zeon_package;
+
 void hello() {
   println("Hello World!");
 }
